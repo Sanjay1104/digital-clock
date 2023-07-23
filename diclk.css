@@ -3,6 +3,12 @@ body{
 background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
 }
 
+h1{
+  font-family: 'Permanent Marker', cursive;
+  color: aliceblue;
+  text-align: center;
+  font-size: 80px;
+}
 #flash{
  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
  color: white;
@@ -12,6 +18,8 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(
  align-items:center;
  justify-content: center;
  font-size: 5rem;  
+ position:relative;
+ bottom: 200px;
 }
 
 #wrapper{
